@@ -1,4 +1,4 @@
-# Tier 1 Week 1 Intro
+# Tier 1 Week 1 Intro | [Video](https://vimeo.com/manage/videos/1027491516/609b2876b3)
 
 How to Get the Most Out of Tier 1
 
