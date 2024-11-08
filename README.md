@@ -29,20 +29,13 @@ Plan on spending 6+ hours every week actively working through these assignments.
 
 Grades
 
-Unit
-	Topic
-
-Missing/Incomplete
-	Not submitted! Or insufficient work done
-
-Reinforcement Needed
-	Base requirements not met
-
-Meets Expectations
-	You got it! This is a great place to be.
-
-Exceeds Expectations
-	Holy cats! Above and beyond.
+| Unit | Topic |
+| ---------- | --------- |
+	
+| Missing/Incomplete | Not submitted! Or insufficient work done |
+| Reinforcement Needed | Base requirements not met |
+| Meets Expectations | You got it! This is a great place to be |
+| Exceeds Expectations | Holy cats! Above and beyond |
 
 
 Meets Expectations
